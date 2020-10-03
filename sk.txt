@@ -1,0 +1,11 @@
+Zadajte cielovy megapixel pocet
+Zadajte velkost obrazu (cm x cm)
+Zadajte plochu kamerovej fotky (cm x cm)
+Zadajte pocet megapixelov kamery
+Zadajte kamerovy pomer
+Zadajte dlzku pauzou (v millisekundach)
+Zadajte percento prekrytia medzi obrazkami
+Vyberte priecinok s obrazmi pre stitching
+Vyberte priecinok pre hotovy obraz
+Vyberte meno pre hotovy obraz
+Vyberte priecinok pre G-Code

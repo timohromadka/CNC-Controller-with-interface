@@ -1,0 +1,11 @@
+Enter megapixel target
+Enter painting resolution (cm x cm)
+Enter area of camera's photo (cm x cm)
+Enter camera's megapixels
+Enter camera's photo ratio, e.g. (4:3)
+Enter pause duration (in milliseconds)
+Choose image overlap percentage
+Select folder with images to be stitched
+Select folder for output image
+Select name of output image
+Select folder for G-Code

@@ -1,0 +1,4 @@
+Camera ratios do not match.
+For better results please move the camera closer.
+Unable to reach target megapixel goal. Move the camera closer and try again.
+Success. G-Code stored at specified folder. Press 'START'to start.
