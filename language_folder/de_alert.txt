@@ -1,0 +1,4 @@
+Kameraverhältnisse stimmen nicht
+Fur bessere Ergebnisse bewegen Sie die Kamera bitte naher.
+Ziel-Megapixel ist unmoglich zu erreichen. Bitte bewegen Sie die Kamera naher.
+Erfolg. G-Code wird gespeichert. Drucke 'START'.
