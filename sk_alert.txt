@@ -1,4 +1,0 @@
-Pomery kamery nepasuju
-Pre lepsie vysledky priblizte kameru.
-Nebolo mozne dosiahnut cielovy megapixel pocet. Priblizte kameru a skuste znova.
-Uspech. G-Code je ulozeny v danom priecinku. Stlacte 'START'
